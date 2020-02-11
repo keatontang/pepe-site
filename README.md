@@ -5,4 +5,8 @@ Currently using three.js to create a 3D space-warp effect with the stars being p
 
 Embedded a compact music player using the Spotify web API
 
-How I did this: https://redstapler.co/space-warp-background-effect-three-js/
+## Credits
+
+- [Space Warp](https://redstapler.co/space-warp-background-effect-three-js/) by RedStapler
+- [three.js](https://threejs.org/)
+- [Spotify](https://developer.spotify.com/documentation/web-api/)
